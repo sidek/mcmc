@@ -1,0 +1,9 @@
+wost/
+markov_chain_monte_carlo/
+readme.html
+readme_files/
+hidden_markov_models/hmm_files/
+hidden_markov_models/hmm.html
+MC_pricing/target
+.DS_Store
+MC_pricing/.DS_Store

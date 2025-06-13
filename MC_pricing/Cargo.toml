@@ -1,0 +1,8 @@
+[package]
+name = "mc_pricing_simple"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.8"
+rand_distr = "0.4"
+micromath = "2"
